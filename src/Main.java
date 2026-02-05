@@ -14,7 +14,7 @@ public class Main {
 //        Roep hier de andere methodes aan
 
         printProfile();
-        System.out.println("Afsluiten. Tot ziens!");
+        System.out.println("Afsluiten. Tot ziens!!");
     }
 
     private static void printMenu() {
